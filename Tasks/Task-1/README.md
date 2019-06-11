@@ -1,6 +1,6 @@
-# Python_Project
 
 # Task 1 data types 
+
 1. Create string data type variable call `my_string` value should be `This is my string type variable.` and print  on next line. 
 2. Create variable call `my_cuted_string` value should be `is my st`  you should cut from `my_string` and print on next line. 
 3. Create int type variable call `my_integer` value should be year on your birthday. 

@@ -1,7 +1,8 @@
-# Python_Project
+# Task2  Dict and list 
 
-Here we will store student tasks.
-Upon task completion please follow the following steps:
-1. Create a branch with Task-1-Name format
-2. Push your tasks with same name as your branch name  
-3. Create a pull request to master branch
+1. Create empty list call `github_users` 
+2. Create user user_emma  `username` emma-11 `firstname`  Emma `lastname` Lopes `password` redhat 
+3. Create user user_smith  `username` frank `firstname`  Frank `lastname` Smith `password` frank2019 
+4. Add these two users to `github_users`
+5. Print out the first users  `username`
+6. Check with  `is` second user's first name Smith
